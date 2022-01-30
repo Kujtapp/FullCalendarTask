@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Read the task",
+    "start": "2022-01-14"
+  },
+  {
+    "title": "Create a GitHub Repo",
+    "start": "2022-01-17"
+  },
+  {
+    "title": "Read the task again",
+    "start": "2022-01-17T14:00:00+00:00"
+  },
+  {
+    "title": "Promise myself to start tomorrow",
+    "start": "2022-01-17T15:00:00+00:00"
+  },
+  {
+    "title": "Start working on task",
+    "start": "2022-01-19T11:00:00+00:00"
+  },
+  {
+    "title": "Google Vue.js",
+    "start": "2022-01-19T12:00:00+00:00"
+  },
+  {
+    "title": "Go to kitchen",
+    "start": "2022-01-19T13:00:00+00:00"
+  },
+  {
+    "title": "Take a sandwich",
+    "start": "2022-01-19T14:00:00+00:00"
+  },
+  {
+    "title": "Take a nap",
+    "start": "2022-01-19T15:00:00+00:00"
+  },
+  {
+    "title": "Make a coffee",
+    "start": "2022-01-20T09:00:00+00:00"
+  },
+  {
+    "title": "Finally get working on the task",
+    "start": "2022-01-20T10:00:00+00:00"
+  },
+  {
+    "title": "F***g npm is not working",
+    "start": "2022-01-20T11:00:00+00:00"
+  },
+  {
+    "title": "Remove node_modules",
+    "start": "2022-01-20T11:05:00+00:00"
+  },
+  {
+    "title": "Go to Stack Overflow",
+    "start": "2022-01-20T11:10:00+00:00"
+  },
+  {
+    "title": "Thank Heaven, some guy did it 15y ago",
+    "start": "2022-01-20T11:20:00+00:00"
+  },
+  {
+    "title": "Do initial commit",
+    "start": "2022-01-21T16:00:00+00:00"
+  },
+  {
+    "title": "Do more meaningless commits",
+    "start": "2022-01-22T17:00:00+00:00"
+  },
+  {
+    "title": "F** it! I'm going to the bar",
+    "start": "2022-01-23T17:00:00+00:00"
+  },
+  {
+    "title": "Send the task to rewiew",
+    "start": "2022-01-24"
+  }
+]
